@@ -1,3 +1,1 @@
-<p>Главная <a href="https://egarnaga.github.io/">Великий Кексби</a></p>
-<p>Вёрстка учебного макета «Великий Кексби».</p>
-<p>Фиксированная вёрстка, HTML5, CSS3. IE9+.</p>
+<p>Главная <a href="https://egarnaga.github.io/">EG Portfolio</a></p>
